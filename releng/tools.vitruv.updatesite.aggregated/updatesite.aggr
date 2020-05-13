@@ -33,7 +33,7 @@
         <features name="org.eclipse.xtend.sdk.feature.group" versionRange="2.19.0"/>
         <features name="org.eclipse.emf.ecore.feature.group" versionRange="2.19.0"/>
       </repositories>
-	  <repositories location="http://kit-sdq.github.io/updatesite/nightly/vavemodel" mirrorArtifacts="false">
+	  <repositories location="http://kit-sdq.github.io/updatesite/release/vavemodel" mirrorArtifacts="false">
         <features name="edu.kit.ipd.sdq.vavemodel.feature.feature.group" versionRange="[1.0.0,2.0.0)"/>
       </repositories>
     </contributions>

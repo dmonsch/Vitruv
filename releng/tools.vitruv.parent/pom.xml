@@ -32,7 +32,7 @@
 		<repository>
 			<id>Vave Metamodel</id>
 			<layout>p2</layout>
-			<url>http://kit-sdq.github.io/updatesite/nightly/vavemodel</url>
+			<url>http://kit-sdq.github.io/updatesite/release/vavemodel</url>
 		</repository>
 	</repositories>
 
